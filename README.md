@@ -19,5 +19,5 @@ Sat Oct 14 13:34:30 CEST 2017 @ localhost
 Press [ctrl+c] to end monitoring
 
 CPU => 58.5'C
-GPU => 58.5'C
+GPU => 58.4'C
 ```
